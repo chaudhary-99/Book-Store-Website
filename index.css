@@ -671,7 +671,7 @@ border-bottom:3px solid black;
 }
 
 .book {
-  background-image:linear-gradient(105deg, rgba(255, 255, 255,0.8) 50%,transparent 50%) ,url(../img/books.jfif);
+  background-image:linear-gradient(105deg, rgba(255, 255, 255,0.8) 50%,transparent 50%) ,url(https://i.postimg.cc/qBGs6VxL/books.jpg);
   background-size: cover;
   height:30rem;
   border-radius: 20px;
