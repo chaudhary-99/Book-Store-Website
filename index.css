@@ -27,7 +27,7 @@ margin-bottom:5.5rem;
   background-image: linear-gradient(to right bottom,
                   rgba(57, 38, 19, 0.8),
                   rgba(153, 102, 51,0.8)),
-                  url(../img/background.jfif);
+                  url(https://i.postimg.cc/zXg6fqy2/background.jpg);
   background-size:cover;
   background-position:center;
   clip-path :polygon(0 0,100% 0,100% 75vh,0 100%);
